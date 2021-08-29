@@ -1,0 +1,31 @@
+body {
+    background-image: cover;
+    }
+    
+    .heading {
+        font-size: 23px;
+        width: 100%;
+        margin: 0px;
+        height: fit-content;
+    }
+    
+    .note {
+        color: black;
+        font-size: 16px;
+        float: center;
+    }
+
+    #which-song {
+    font-size: 20px;
+    margin: 15px;
+    }
+
+   canvas {
+        border: 5px solid hotpink;
+        box-shadow: 5, 5, 5, lightcoral;
+        background-color: lightsalmon;
+   }
+   
+   .play {
+    font-size: 28px;   
+   }
